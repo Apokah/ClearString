@@ -1,0 +1,9 @@
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\bin\Debug\ClearString.exe.config
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\bin\Debug\ClearString.exe
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\bin\Debug\ClearString.pdb
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.csprojResolveAssemblyReference.cache
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.Form1.resources
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.Properties.Resources.resources
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.csproj.GenerateResource.Cache
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.exe
+C:\Users\cyril_000\Documents\Development\ClearString\ClearString\obj\Debug\ClearString.pdb
